@@ -1,5 +1,7 @@
 ### 1291 : 구구단
 
+[http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=574&sca=2010](http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=574&sca=2010)
+
 #### 문제
 
 원하는 구구단의 범위를 입력받아 해당 구간의 구구단을 출력하는 프로그램을 작성하시오.
