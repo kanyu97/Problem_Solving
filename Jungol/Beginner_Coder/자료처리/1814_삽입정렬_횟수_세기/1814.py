@@ -10,6 +10,5 @@ for i in range(1, n):
             idx = j
             break
     nums = nums[:idx] + nums[i:i+1] + nums[idx:i] + nums[i+1:]
-    if idx != i:
-        result += abs(idx - i + 1)
+    result += abs(i - idx)
 print(result)
